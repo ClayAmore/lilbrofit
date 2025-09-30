@@ -1,0 +1,1 @@
+import{f as e}from"./index-Bricr9DV.js";export{e as WebGPURenderer};
